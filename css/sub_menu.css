@@ -1,6 +1,8 @@
-h1 {
+subPage {
 	font-size: 20px;
 	font-weight: 50;
 	letter-spacing: 10px;
 	text-align: center;
 	}
+.mydiv { display: inline; }
+.hidden{ display: none; }
